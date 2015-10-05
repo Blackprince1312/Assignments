@@ -43,11 +43,11 @@ Your CSS should be valid.
 
 ### Hard Mode
 
-In addition to normal mode, take a look at [this Codepen](http://codepen.io/twhitacre/pen/QjEqyQ). The HTML in his page wasn't valid, and as a result there were a few rendering bugs.
+In addition to normal mode, take a look at [this Codepen](http://codepen.io/twhitacre/pen/QjEqyQ). The HTML in this page isn't valid, and as a result there are a few rendering bugs.
 
 * text starts getting bold for no reason
 * some content is shifted over to the left
 
 Make a fork of the Codepen (just hit the "Fork" button on the top) and fix the HTML bugs.
 
-To turn this in, just provide a link to your fixed copy as a comment in your isssue.
+To turn this in, just provide a link to your fixed copy as a comment in your issue.
